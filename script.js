@@ -18,3 +18,4 @@ function Scoreblue()
     outputtwo.innerHTML = bluescore;
 }
 
+console.log ("Did the change work")
